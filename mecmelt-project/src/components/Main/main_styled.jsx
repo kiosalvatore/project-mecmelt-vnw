@@ -38,7 +38,7 @@ button{
 }
 `
 export const Banner = styled.section`
-    border: black 2px solid;
+    /* border: black 2px solid; */
     background-color: #FBC42B;
     height: 600px;
     padding-top: 60px;
@@ -67,7 +67,7 @@ export const Bateufome = styled.div`
 `
 export const MenuSelect = styled.div`
     /* border: black 2px solid; */
-    ${center};
+    ${center}
     
     /* display: flex;
     justify-content: space-evenly; */
